@@ -1,0 +1,362 @@
+[
+    {
+        "Question": "What made me smile today?",
+        "Category": "Daily Reflection",
+        "Response": "A colleague brought me coffee unexpectedly.",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 1.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What challenges did I face today, and how did I handle them?",
+        "Category": "Daily Reflection",
+        "Response": "I had a tight deadline but broke the task into smaller parts and managed to finish on time.",
+        "Compound Score": -0.5719,
+        "Positive Score": 0.0,
+        "Neutral Score": 0.821,
+        "Negative Score": 0.179
+    },
+    {
+        "Question": "What emotions did I experience today?",
+        "Category": "Daily Reflection",
+        "Response": "I felt anxious in the morning but more relaxed as the day went on.",
+        "Compound Score": 0.6416,
+        "Positive Score": 0.26,
+        "Neutral Score": 0.658,
+        "Negative Score": 0.082
+    },
+    {
+        "Question": "What is one thing I could have done differently today?",
+        "Category": "Daily Reflection",
+        "Response": "I could have communicated more clearly in a meeting to avoid confusion.",
+        "Compound Score": -0.1045,
+        "Positive Score": 0.183,
+        "Neutral Score": 0.549,
+        "Negative Score": 0.268
+    },
+    {
+        "Question": "What am I grateful for today?",
+        "Category": "Daily Reflection",
+        "Response": "I\u2019m grateful for the support of my friends who always listen.",
+        "Compound Score": 0.8316,
+        "Positive Score": 0.524,
+        "Neutral Score": 0.476,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What personal qualities do I admire in others?",
+        "Category": "Personal Growth",
+        "Response": "I admire people who can stay calm in stressful situations.",
+        "Compound Score": 0.2732,
+        "Positive Score": 0.344,
+        "Neutral Score": 0.446,
+        "Negative Score": 0.21
+    },
+    {
+        "Question": "What fears or limiting beliefs are holding me back?",
+        "Category": "Personal Growth",
+        "Response": "I sometimes fear failure, which prevents me from taking risks.",
+        "Compound Score": -0.8074,
+        "Positive Score": 0.082,
+        "Neutral Score": 0.377,
+        "Negative Score": 0.541
+    },
+    {
+        "Question": "How have I changed in the past year?",
+        "Category": "Personal Growth",
+        "Response": "I\u2019ve become more confident in my decision-making.",
+        "Compound Score": 0.5413,
+        "Positive Score": 0.368,
+        "Neutral Score": 0.632,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What habits do I want to develop or break?",
+        "Category": "Personal Growth",
+        "Response": "I want to develop a habit of reading more books each month.",
+        "Compound Score": 0.0772,
+        "Positive Score": 0.106,
+        "Neutral Score": 0.894,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What does self-love look like for me?",
+        "Category": "Personal Growth",
+        "Response": "Self-love means taking time to rest without feeling guilty.",
+        "Compound Score": 0.2411,
+        "Positive Score": 0.218,
+        "Neutral Score": 0.654,
+        "Negative Score": 0.128
+    },
+    {
+        "Question": "What are my short-term and long-term goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "Short-term: Learn a new programming language. Long-term: Become a lead developer.",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 1.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What steps did I take today toward achieving my goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "I completed an online course that aligns with my career goals.",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 1.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What motivates me to achieve my goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "The idea of personal growth and self-improvement keeps me going.",
+        "Compound Score": 0.3818,
+        "Positive Score": 0.224,
+        "Neutral Score": 0.776,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "How do I define success for myself?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "Success is achieving a balance between my personal and professional life.",
+        "Compound Score": 0.5719,
+        "Positive Score": 0.27,
+        "Neutral Score": 0.73,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What obstacles am I facing in reaching my goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "Lack of time management is making it hard to stay on track.",
+        "Compound Score": -0.4019,
+        "Positive Score": 0.0,
+        "Neutral Score": 0.73,
+        "Negative Score": 0.27
+    },
+    {
+        "Question": "What moments today made me feel present and engaged?",
+        "Category": "Mindfulness and Presence",
+        "Response": "During a conversation with a close friend, I was fully present and listening.",
+        "Compound Score": 0.4939,
+        "Positive Score": 0.211,
+        "Neutral Score": 0.789,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "How can I bring more mindfulness into my daily routine?",
+        "Category": "Mindfulness and Presence",
+        "Response": "I can start each morning with a 5-minute breathing exercise.",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 1.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What do I need to let go of to feel more at peace?",
+        "Category": "Mindfulness and Presence",
+        "Response": "I need to let go of the need to control everything around me.",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 1.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "How can I simplify my life to reduce stress?",
+        "Category": "Mindfulness and Presence",
+        "Response": "I can delegate tasks and ask for help when needed.",
+        "Compound Score": 0.4019,
+        "Positive Score": 0.231,
+        "Neutral Score": 0.769,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What does my ideal day look like?",
+        "Category": "Mindfulness and Presence",
+        "Response": "My ideal day includes a balance of productive work and leisure time with family.",
+        "Compound Score": 0.5267,
+        "Positive Score": 0.207,
+        "Neutral Score": 0.793,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What made me smile today?",
+        "Category": "Daily Reflection",
+        "Response": "I respect those who are consistent and reliable in their actions.",
+        "Compound Score": 0.4767,
+        "Positive Score": 0.237,
+        "Neutral Score": 0.763,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What challenges did I face today, and how did I handle them?",
+        "Category": "Daily Reflection",
+        "Response": "I believe I\u2019m not good enough, so I hesitate to pursue bigger opportunities.",
+        "Compound Score": -0.2924,
+        "Positive Score": 0.15,
+        "Neutral Score": 0.575,
+        "Negative Score": 0.275
+    },
+    {
+        "Question": "What emotions did I experience today?",
+        "Category": "Daily Reflection",
+        "Response": "I\u2019m more patient and can handle stress better than before.",
+        "Compound Score": 0.0258,
+        "Positive Score": 0.212,
+        "Neutral Score": 0.584,
+        "Negative Score": 0.204
+    },
+    {
+        "Question": "What is one thing I could have done differently today?",
+        "Category": "Daily Reflection",
+        "Response": "I need to break the habit of procrastinating important tasks.",
+        "Compound Score": 0.2023,
+        "Positive Score": 0.167,
+        "Neutral Score": 0.833,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What am I grateful for today?",
+        "Category": "Daily Reflection",
+        "Response": "It means setting boundaries with others to protect my energy.",
+        "Compound Score": 0.5719,
+        "Positive Score": 0.37,
+        "Neutral Score": 0.63,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What personal qualities do I admire in others?",
+        "Category": "Personal Growth",
+        "Response": "Short-term: Improve my fitness routine. Long-term: Run a marathon.",
+        "Compound Score": 0.6124,
+        "Positive Score": 0.417,
+        "Neutral Score": 0.583,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What fears or limiting beliefs are holding me back?",
+        "Category": "Personal Growth",
+        "Response": "I worked out for 30 minutes today, getting closer to my fitness goal.",
+        "Compound Score": 0.2732,
+        "Positive Score": 0.149,
+        "Neutral Score": 0.851,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "How have I changed in the past year?",
+        "Category": "Personal Growth",
+        "Response": "I want to provide a better life for my family, which pushes me to succeed.",
+        "Compound Score": 0.7506,
+        "Positive Score": 0.381,
+        "Neutral Score": 0.619,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What habits do I want to develop or break?",
+        "Category": "Personal Growth",
+        "Response": "It\u2019s about continuous learning and growth, not just reaching an endpoint.",
+        "Compound Score": 0.2519,
+        "Positive Score": 0.197,
+        "Neutral Score": 0.682,
+        "Negative Score": 0.121
+    },
+    {
+        "Question": "What does self-love look like for me?",
+        "Category": "Personal Growth",
+        "Response": "I\u2019m dealing with self-doubt that slows down my progress.",
+        "Compound Score": 0.4215,
+        "Positive Score": 0.259,
+        "Neutral Score": 0.741,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What are my short-term and long-term goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "I felt engaged while working on a task that required deep focus.",
+        "Compound Score": 0.4019,
+        "Positive Score": 0.197,
+        "Neutral Score": 0.803,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What steps did I take today toward achieving my goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "I could take short breaks throughout the day to check in with myself.",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 1.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What motivates me to achieve my goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "I should release grudges and past resentment toward certain people.",
+        "Compound Score": -0.2023,
+        "Positive Score": 0.162,
+        "Neutral Score": 0.615,
+        "Negative Score": 0.223
+    },
+    {
+        "Question": "How do I define success for myself?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "I should declutter my workspace to create a more peaceful environment.",
+        "Compound Score": 0.6801,
+        "Positive Score": 0.383,
+        "Neutral Score": 0.617,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What obstacles am I facing in reaching my goals?",
+        "Category": "Goal-Oriented Reflection",
+        "Response": "It involves starting the day with exercise, followed by focused work and time for hobbies.",
+        "Compound Score": 0.3818,
+        "Positive Score": 0.157,
+        "Neutral Score": 0.843,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What moments today made me feel present and engaged?",
+        "Category": "Mindfulness and Presence",
+        "Response": "It involves starting the day with exercise, followed by focused work and time for hobbies.",
+        "Compound Score": 0.3818,
+        "Positive Score": 0.157,
+        "Neutral Score": 0.843,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "How can I bring more mindfulness into my daily routine?",
+        "Category": "Mindfulness and Presence",
+        "Response": "",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 0.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What do I need to let go of to feel more at peace?",
+        "Category": "Mindfulness and Presence",
+        "Response": "",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 0.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "How can I simplify my life to reduce stress?",
+        "Category": "Mindfulness and Presence",
+        "Response": "",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 0.0,
+        "Negative Score": 0.0
+    },
+    {
+        "Question": "What does my ideal day look like?",
+        "Category": "Mindfulness and Presence",
+        "Response": "",
+        "Compound Score": 0.0,
+        "Positive Score": 0.0,
+        "Neutral Score": 0.0,
+        "Negative Score": 0.0
+    }
+]
