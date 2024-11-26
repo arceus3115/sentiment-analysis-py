@@ -17,6 +17,11 @@ VADER is a useful proxy NLP tool for this project because people already use soc
 3. Proccess and save that information behind the scenes to track, plot and estimate ebs and flows of the mental state
     - In response project will give user things they should thing about to respond with
 
+# Getting Started 
+1. Clone the repo and enter the terminal 
+2. Start the venv `source venv/bin/activate`
+3. 
+9999. When you are done `deactivate` to turn the venv off
 
 # Important Texts
 - https://github.com/totalgood/nlpia/blob/master/src/nlpia/data/hutto_ICWSM_2014/vader_icwsm2014_final.pdf
