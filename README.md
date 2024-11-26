@@ -20,7 +20,7 @@ VADER is a useful proxy NLP tool for this project because people already use soc
 # Getting Started 
 1. Clone the repo and enter the terminal 
 2. Start the venv `source venv/bin/activate`
-3. 
+3. Run `python main.py
 9999. When you are done `deactivate` to turn the venv off
 
 # Important Texts
